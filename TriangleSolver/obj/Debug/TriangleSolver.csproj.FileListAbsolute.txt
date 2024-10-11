@@ -16,3 +16,9 @@ C:\Users\vpatel05262\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolver\
 C:\Users\vpatel05262\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CoreCompileInputs.cache
 C:\Users\vpatel05262\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.dll
 C:\Users\vpatel05262\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.pdb
+C:\Users\vpatel05262\Downloads\TriangleSolver (1)\Luv_Patel_8986322_Assignment2\TriangleSolver\bin\Debug\TriangleSolver.dll
+C:\Users\vpatel05262\Downloads\TriangleSolver (1)\Luv_Patel_8986322_Assignment2\TriangleSolver\bin\Debug\TriangleSolver.pdb
+C:\Users\vpatel05262\Downloads\TriangleSolver (1)\Luv_Patel_8986322_Assignment2\TriangleSolver\obj\Debug\TriangleSolver.csproj.AssemblyReference.cache
+C:\Users\vpatel05262\Downloads\TriangleSolver (1)\Luv_Patel_8986322_Assignment2\TriangleSolver\obj\Debug\TriangleSolver.csproj.CoreCompileInputs.cache
+C:\Users\vpatel05262\Downloads\TriangleSolver (1)\Luv_Patel_8986322_Assignment2\TriangleSolver\obj\Debug\TriangleSolver.dll
+C:\Users\vpatel05262\Downloads\TriangleSolver (1)\Luv_Patel_8986322_Assignment2\TriangleSolver\obj\Debug\TriangleSolver.pdb
